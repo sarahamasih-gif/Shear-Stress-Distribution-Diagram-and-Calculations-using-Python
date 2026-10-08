@@ -1,0 +1,1 @@
+# Shear-Stress-Distribution-Diagram-and-Calculations-using-Python
